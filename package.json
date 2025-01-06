@@ -1,0 +1,15 @@
+{
+  "name": "belajar.github.io",
+  "version": "1.0.0",
+  "description": "web untuk belajar part2",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
